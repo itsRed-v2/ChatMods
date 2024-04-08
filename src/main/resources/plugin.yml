@@ -1,0 +1,6 @@
+name: ChatMods
+version: '${version}'
+main: fr.xenocraft.chatmods.Main
+api-version: '1.20'
+authors: [itsRed_v2]
+description: Chat enhancement plugin
