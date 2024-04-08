@@ -1,0 +1,5 @@
+join_msg: "%s joined."
+leave_msg: "%s left."
+chat_format: "%1$s > %2$s"
+
+allow_chat_color_codes: true
